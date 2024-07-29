@@ -4,7 +4,7 @@ My personal solution to the [Build a Bookbot](https://www.boot.dev/courses/build
 
 ## Set up
 
-1. From the root directory, create a directory called `books/`, and a new file within it called `frankenstein.txt`.
+1. From the root directory, create a sub-directory named `books/` and a new file within it named `frankenstein.txt`.
 2. Copy the contents of [*Frankenstein* by Mary Shelley](https://raw.githubusercontent.com/asweigart/codebreaker/master/frankenstein.txt) into `frankenstein.txt`.
 3. Run the main Python script.
 
