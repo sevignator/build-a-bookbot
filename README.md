@@ -1,6 +1,6 @@
 # Build a Bookbot project
 
-Personal solution to the [Build a Bookbot](https://www.boot.dev/courses/build-bookbot) project from [Boot.dev](https://www.boot.dev/tracks/backend).
+Personal solution to the [Build a Bookbot project](https://www.boot.dev/courses/build-bookbot) from [Boot.dev](https://www.boot.dev/tracks/backend).
 
 ## Set up
 
