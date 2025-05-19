@@ -1,5 +1,7 @@
 # Build a Bookbot project
 
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
 Personal solution to the [Build a Bookbot](https://www.boot.dev/courses/build-bookbot) project from [Boot.dev](https://www.boot.dev/tracks/backend).
 
 ## Set up
