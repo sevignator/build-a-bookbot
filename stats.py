@@ -1,9 +1,9 @@
-def get_num_words(text):
+def get_num_words(text: str):
     num_words = len(text.split())
     return f"{num_words} words found in the document"
 
 
-def get_char_count(text):
+def get_char_count(text: str):
     text_to_lowercase = text.lower()
     chars = {}
 
@@ -16,11 +16,11 @@ def get_char_count(text):
     return chars
 
 
-def get_sorted_char_count(num_chars_dict):
+def get_sorted_char_count(char_count_dict: dict):
     sorted_list = []
 
-    for ch in num_chars_dict:
-        sorted_list.append({"char": ch, "num": num_chars_dict[ch]})
+    for ch in char_count_dict:
+        sorted_list.append({"char": ch, "num": char_count_dict[ch]})
 
     sorted_list.sort(reverse=True, key=lambda d: d["num"])
 
